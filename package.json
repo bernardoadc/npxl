@@ -1,0 +1,19 @@
+{
+  "name": "npxl",
+  "version": "1.0.0",
+  "description": "Run npm local package in a simple manner",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardoadc/npxl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardoadc/npxl/issues"
+  },
+  "homepage": "https://github.com/bernardoadc/npxl#readme"
+}
